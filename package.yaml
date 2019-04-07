@@ -38,6 +38,7 @@ executables:
     - text
     - webdriver
     - scalpel-core
+    #- tagsoup
 
 tests:
   memes-test:
